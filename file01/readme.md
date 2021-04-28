@@ -1,4 +1,5 @@
 ## 将wav格式音频剪切成25s
 #### 多媒体技术作业
 [关于多媒体技术](https://baike.baidu.com/item/%E5%A4%9A%E5%AA%92%E4%BD%93%E6%8A%80%E6%9C%AF/143527?fr=aladdin)<br>
-[上一级的readme文档](../README.md)
+[上一级的readme文档](../README.md)<br>
+![image](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%86%AC%E6%9C%8D%E9%9D%99%E6%B1%9F&step_word=&hs=0&pn=1&spn=0&di=550&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1625704181%2C2202504749&os=2115026234%2C3368299430&simid=7365550%2C523462056&adpicid=0&lpn=0&ln=86&fr=&fmq=1619609355556_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fpic.fxxz.com%2Fup%2F2013-11%2F2013111129291538248176.jpg%26refer%3Dhttp%3A%2F%2Fpic.fxxz.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1622201360%26t%3D4c3c31917a097431fe1f475e5f8cac0d&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Buxxz_z%26e3Bv54AzdH3Fip4sAzdH3Fc8nnc_z%26e3Bip4s&gsm=2&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
